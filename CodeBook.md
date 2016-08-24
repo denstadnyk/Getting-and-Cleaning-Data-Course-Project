@@ -52,6 +52,6 @@ and create tiny data sets:
 
 - The first column contains Subject IDs (`Person`).
 - The second column contains activity names (`Activity`).
-- The last 66 columns are measurements.
+- The last 79 columns are measurements.
 - `Person` is factor variable with levels `Person 1` to `Person 30`.
 - `Activity` is a factor variable with 6 factors (originally from activity_labels.txt)
