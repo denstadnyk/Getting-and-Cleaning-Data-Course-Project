@@ -39,11 +39,9 @@ and create tiny data sets:
 - x_test - training set from `test/X_test.txt`
 - subject_test - table contents of `test/subject_test.txt`
 - subject_train - table contents of `train/subject_train.txt`
-
 - activity - merged training labels from train and test data set
 - rawdata - merged train and test sets from train and test data set
 - person - merged column with subjects from train and test data set
-
 - dataset - merged subjects with activities with measurements
 - meandata - average of each variable for each activity and each subject from dataset
 
