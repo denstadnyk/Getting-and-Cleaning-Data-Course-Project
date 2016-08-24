@@ -30,7 +30,6 @@ and create tiny data sets:
 
 ### Variables
 
-- testData - table contents of `test/X_test.txt`
 - features - feature names from `features.txt`
 - activity_labels - activity labels from `activity_labels.txt`
 - y_train - training labels from `train/y_train.txt`
